@@ -1,0 +1,1 @@
+# associal-club-js-api
