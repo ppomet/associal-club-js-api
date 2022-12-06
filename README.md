@@ -1,1 +1,1 @@
-# associal-club-js-api
+# associal-club-node-api
